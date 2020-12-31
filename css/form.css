@@ -13,10 +13,16 @@ form {
     label {
         display: inline-block;
         width: 100%;
+        margin-bottom: 5px;
     }
     input {
         display: inline-block;
         width: 100%;
+        line-height: 30px;
+        font-size: 20px;
+        border:none;
+        border-bottom: 1px solid; color: #999;
+        
     }
     .form-row > span {
         display: inline-block;
